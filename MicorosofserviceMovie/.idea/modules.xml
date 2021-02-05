@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicorosofserviceMovie.iml" filepath="$PROJECT_DIR$/.idea/MicorosofserviceMovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieInfoService/MovieInfoService.iml" filepath="$PROJECT_DIR$/MovieInfoService/MovieInfoService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RatingMovieModule/RatingMoive.iml" filepath="$PROJECT_DIR$/RatingMovieModule/RatingMoive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CatalogMovieModul/User.iml" filepath="$PROJECT_DIR$/CatalogMovieModul/User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveryserver/discoveryserver.iml" filepath="$PROJECT_DIR$/discoveryserver/discoveryserver.iml" />
+    </modules>
+  </component>
+</project>
